@@ -1,5 +1,0 @@
-{{#user}}
-Name: Anuj
-Skills: HTML, CSS, JS, FIGMA, BOOTSTRAP, GIT,GITHUB
-Email: anujkushwaha664@gmail.com
-{{/user}}
